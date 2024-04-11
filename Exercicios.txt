@@ -1,0 +1,47 @@
+Exercicios
+
+1 - Subir no PowerBI Venda CarrosAlterada
+
+2 - Remover todas as colunas geradas a mais pelo Excel
+
+
+3 - Excluir as 3 primeiras linhas 
+
+4 - Tornar a nova primeira linha como cabecalho
+
+5 - Remover os valores com erro das colunas ValorVenda e ValorCusto
+
+6 - Remover linhas que contem `Alteracao da marca`
+
+7 - Preencher as Marcas para Baixo para acertar as demais linhas
+
+
+8 - Separar a Data e Hora em 2 colunas diferentes
+
+
+9 - Alterar todos os horarios de 12:00:00 PM para 07:00:00 AM
+
+
+10 - Unir as colunas Estado e Pais e separar por traco (-) e renomear a coluna para Estado/Pa s
+
+
+11 - Corrigir os espa os em branco de algumas linhas na coluna Estado/Pa s
+
+
+12 - Acertar o tipo de todas as colunas de Pre o
+
+13 - A tabela CustoMaodeObra deve ser do tipo texto, antes do valor dever  ser adicionado 'R$' e ap s ',00'
+
+14 - Excluir a coluna ano
+
+15 - Mover as colunas Data e Hora para depois de CustoMaodeObra
+
+16 - Mover colunas Modelo e Cor para depois da Marca e NomeCliente para Antes da Marca
+
+A disposi  o das marcas deve ser {NomeCliente, Fabricante, Modelo,Cor, Estado/Pa s, ValorVenda, ValorCusto,TotalDesconto, CustoEntrega, CustoMaodeObra, Data, Hora}
+
+17 - Criar dCalend rio
+
+18 - Criar relacionamento da dCalend rio com a Data da VendaCarros
+
+
